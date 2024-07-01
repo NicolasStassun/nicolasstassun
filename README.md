@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nicolasstassun" alt="nicolasstassun" /></a> </p>
 
-- 🔭 Estou tabalhando no **OG Project**
-
 - 🌱 Estou aprendendo **SpringBoot**
 
 - 💬 Me pergunte sobre **Vue, Java, JavaScript**
